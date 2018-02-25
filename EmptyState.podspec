@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   Delight your users by showing useful, funny
                    DESC
 
-  s.homepage     = "http://github.com/sa7bi/EmptyState"
+  s.homepage     = "https://github.com/sa7bi/EmptyState"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/sa7bi/EmptyState.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/sa7bi/EmptyState.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
